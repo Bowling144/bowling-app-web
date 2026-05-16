@@ -2,9 +2,9 @@
   "name": "ボウリング解析",
   "short_name": "ボウリング",
   "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
   "icons": [
     {
       "src": "icon.png",
